@@ -1,0 +1,9 @@
+#Suricata Tests
+
+#To begin working with Suricata we first moved the command prompt to a Linux Subsystem, for this I began looking on the windows website. And from there I was giving the command “wsl --install.” 
+
+#From there we downloaded Suricata, for this we did use the help of ChatGPT at first, we wanted to utilize a container, but this seemed like with the time constraints of also having to learn how Suricata works, we opted for the options that were provided and did further research into how and why they worked.  
+
+#For the start we had to download Suricata, for this we used the command “sudo apt install suricata” 
+
+#Unfortunately, through this process, we reached errors. (Ex. 
