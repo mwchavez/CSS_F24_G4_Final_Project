@@ -4,6 +4,27 @@
 
 #From there we downloaded Suricata, for this we did use the help of ChatGPT at first, we wanted to utilize a container, but this seemed like with the time constraints of also having to learn how Suricata works, we opted for the options that were provided and did further research into how and why they worked.  
 
-#For the start we had to download Suricata, for this we used the command “sudo apt install suricata” 
+#For the start we had to download Suricata, for this we used the command “sudo apt install suricata” '
 
-#Unfortunately, through this process, we reached errors. (Ex. 
+
+
+#To enable Linux compatibility on our Windows system, we used this command:
+
+wsl --install
+
+#Downloading and Installing Suricata:
+
+sudo apt install suricata
+
+
+#Find IP address
+
+ip addr
+
+#Creating the container
+
+docker-compose up -d suricata
+
+#Viewing the incoming logs
+
+docker logs -f <name of container>
