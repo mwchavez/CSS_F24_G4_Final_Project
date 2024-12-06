@@ -1,4 +1,4 @@
-# CSS_F24_G4_Final_Project
+c# CSS_F24_G4_Final_Project
 For this assignment we were tasked with using a couple of the modules from class and creating a project that shows cases what has been learned in those respective modules. More Specifically, how we can correlate them into the real world. 
 
 For our group we picked modules 2, Threat Management and Cybersecurity Resources, and module 8, Networking Threats, Assessments, and Defenses.
@@ -12,10 +12,9 @@ To begin the process of building a deep learning model that allows for packet fi
 However Wireshark is not an IDS, there is no prevention, just after the fact. 
 So we turned to a rather complex model for our level, Suricata.
 
-Using Suricata, we were able to...
+Using Suricata, we were able to attempt to understand how it can monitor in real time, and possibly block malformed packets from entrance. 
 
-However...
+However, due to the limitation of learning an entire new system as well as possible constraints on the hardware, we were left unable to figure this part out. 
 
+Though, conceptually, we were able to understand- and provided as such in our presentation.
 
-Our concenus is...
-(Due to... Granted we are...) Inexperience(d), 
